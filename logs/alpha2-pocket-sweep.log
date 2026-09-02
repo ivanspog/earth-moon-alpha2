@@ -1,0 +1,12 @@
+# alpha2_pocket_sweep — git b542bb0e9b97d696169043cc8b4b047d831f2522
+# script sha256 6455521175851e212d6866b77a0b3d0412a45ae4d304fc9eb2c063291d64725e
+# R(3,k) table: {2: 3, 3: 6, 4: 9, 5: 14, 6: 18, 7: 23, 8: 28, 9: 36}
+
+n=14: e(H) >= 19 required; 14 shapes checked; 0 survivor(s)
+n=15: e(H) >= 27 required; 28 shapes checked; 0 survivor(s)
+n=16: e(H) >= 36 required; 51 shapes checked; 0 survivor(s)
+n=17: e(H) >= 46 required; 88 shapes checked; 0 survivor(s)
+n=18: e(H) >= 57 required; 139 shapes checked; 1 survivor(s)
+    SURVIVOR s=1 t=1 a=0 c=0 orders=[17] alphas=[7] alpha_C=0 emax=59
+
+VERDICT: pocket shapes exist only where survivors are listed above; every n with 0 survivors is EMPTY (no biplanar G with alpha<=2, chi>=10).

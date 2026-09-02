@@ -1,0 +1,16 @@
+# alpha2_pocket_candidate — git 4983d80b74b52e8f79e8e626e72ba57685ea13c6
+# script sha256 19ea48ee7bfa3e11699ff3fded1769c5567e1824afe6ab63857d628f747cdba6
+PASS  e(F) == 58
+PASS  Delta(F) == 7
+PASS  delta(F) == 6
+PASS  F triangle-free
+PASS  alpha(F) == 7
+PASS  nu(F) == 8
+PASS  F factor-critical
+PASS  e(G0) == 95 (<= 96)
+PASS  alpha(G0) <= 2
+PASS  omega(G0) == 8 (no K9)
+PASS  chi(G0) <= 10 (10-coloring found)
+PASS  chi(G0) >= 10 (9-coloring UNSAT by backtracking)
+ALL CHECKS PASS
+wrote /Users/ivanspogreev/earth-moon/suite/q18-cone-c5-44333.json
