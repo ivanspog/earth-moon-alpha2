@@ -5,6 +5,8 @@ biplanar / thickness-2 graphs, open since Ringel 1959; known bounds 9 ≤ χ ≤
 the **independence-number-2 route** — proofs, SAT certificates, verification
 scripts, and run logs.
 
+Archived releases: DOI [10.5281/zenodo.22242268](https://doi.org/10.5281/zenodo.22242268)
+
 This is a research record, not a paper. Every claim below carries its honest
 verification status. Nothing here has been peer-reviewed.
 
