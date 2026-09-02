@@ -79,4 +79,4 @@ and will be recorded.
 
 Ivan Spogreev — ivanspog@gmail.com
 
-License: TBD (all rights reserved until a license is chosen).
+License: MIT (see LICENSE).
