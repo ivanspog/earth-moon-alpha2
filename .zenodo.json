@@ -1,0 +1,8 @@
+{
+  "title": "earth-moon-alpha2: small-order results on the Earth-Moon problem via independence number 2",
+  "upload_type": "software",
+  "description": "Research record for the independence-number-2 route of the Earth-Moon problem (chromatic number of biplanar / thickness-2 graphs): proofs of small-order emptiness and structure results (14-18 vertices), SAT non-biplanarity certificates for three C5-inflation candidates and the canonical 18-vertex cone candidate, verification scripts, problem instances, and run logs. Produced by an AI research framework under human direction; not peer-reviewed; every claim carries its verification status in the README.",
+  "creators": [{"name": "Spogreev, Ivan"}],
+  "license": "MIT",
+  "keywords": ["Earth-Moon problem", "biplanar graphs", "graph thickness", "chromatic number", "SAT solving", "extremal graph theory", "triangle-free graphs", "matching number"]
+}
