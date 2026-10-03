@@ -79,6 +79,6 @@ and will be recorded.
 
 ## Contact
 
-Ivan Spogreev — ivanspog@gmail.com
+Ivan Spogreev. Questions and corrections: please open an issue on this repository.
 
 License: MIT (see LICENSE).
